@@ -8,3 +8,6 @@
 
 ## Data Scientist
 - [Kaggle](https://www.kaggle.com/)
+
+## Generartive
+- [Suno AI](https://www.suno.ai/)
