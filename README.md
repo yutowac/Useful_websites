@@ -17,3 +17,6 @@
 - [Screenshot-to-code](https://screenshottocode.com/)
 - [doraAI](https://www.dora.run/ai?utm_source=AILaunch&utm_campaign=TRW8X67RH)
 ### design
+- [Canva]()
+- [Mokker AI]()
+- [Designs.AI]()
