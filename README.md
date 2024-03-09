@@ -22,4 +22,3 @@
 - [Canva](https://www.canva.com/)
 - [Mokker AI](https://mokker.ai/)
 - [Designs.AI](https://designs.ai/)
-- []
